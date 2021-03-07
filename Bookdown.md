@@ -2,7 +2,7 @@
 #### autores: "Mateus Ferraz, Beatriz Gomes e Bruno Monteiro,"
 ###### date: "04/03/2021"
 
-![3462ec0849920e1fb0e5fac7c86fac9c.png](:/b3929383888e445baf6a1654a3cc6aaf)
+![](![Home | Bookdown](https://bookdown.org/yihui/bookdown/images/logo.png))
 
 ###### Este documento retrata o passo a passo para a elaboração de um livro através de manipulação de dados.
 
